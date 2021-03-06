@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crud-react-app.git/static/css/main.fad76d05.chunk.css",
+    "main.js": "/crud-react-app.git/static/js/main.08080ab1.chunk.js",
+    "main.js.map": "/crud-react-app.git/static/js/main.08080ab1.chunk.js.map",
+    "runtime-main.js": "/crud-react-app.git/static/js/runtime-main.ac2b4b9a.js",
+    "runtime-main.js.map": "/crud-react-app.git/static/js/runtime-main.ac2b4b9a.js.map",
+    "static/js/2.99d95e9e.chunk.js": "/crud-react-app.git/static/js/2.99d95e9e.chunk.js",
+    "static/js/2.99d95e9e.chunk.js.map": "/crud-react-app.git/static/js/2.99d95e9e.chunk.js.map",
+    "static/js/3.b77d2b95.chunk.js": "/crud-react-app.git/static/js/3.b77d2b95.chunk.js",
+    "static/js/3.b77d2b95.chunk.js.map": "/crud-react-app.git/static/js/3.b77d2b95.chunk.js.map",
+    "index.html": "/crud-react-app.git/index.html",
+    "static/css/main.fad76d05.chunk.css.map": "/crud-react-app.git/static/css/main.fad76d05.chunk.css.map",
+    "static/js/2.99d95e9e.chunk.js.LICENSE.txt": "/crud-react-app.git/static/js/2.99d95e9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac2b4b9a.js",
+    "static/js/2.99d95e9e.chunk.js",
+    "static/css/main.fad76d05.chunk.css",
+    "static/js/main.08080ab1.chunk.js"
+  ]
+}
