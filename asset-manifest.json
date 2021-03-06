@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/crud-react-app/static/css/main.fad76d05.chunk.css",
-    "main.js": "/crud-react-app/static/js/main.08080ab1.chunk.js",
-    "main.js.map": "/crud-react-app/static/js/main.08080ab1.chunk.js.map",
+    "main.css": "/crud-react-app/static/css/main.eac55fcc.chunk.css",
+    "main.js": "/crud-react-app/static/js/main.60c43acb.chunk.js",
+    "main.js.map": "/crud-react-app/static/js/main.60c43acb.chunk.js.map",
     "runtime-main.js": "/crud-react-app/static/js/runtime-main.24fa545d.js",
     "runtime-main.js.map": "/crud-react-app/static/js/runtime-main.24fa545d.js.map",
     "static/js/2.99d95e9e.chunk.js": "/crud-react-app/static/js/2.99d95e9e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b77d2b95.chunk.js": "/crud-react-app/static/js/3.b77d2b95.chunk.js",
     "static/js/3.b77d2b95.chunk.js.map": "/crud-react-app/static/js/3.b77d2b95.chunk.js.map",
     "index.html": "/crud-react-app/index.html",
-    "static/css/main.fad76d05.chunk.css.map": "/crud-react-app/static/css/main.fad76d05.chunk.css.map",
+    "static/css/main.eac55fcc.chunk.css.map": "/crud-react-app/static/css/main.eac55fcc.chunk.css.map",
     "static/js/2.99d95e9e.chunk.js.LICENSE.txt": "/crud-react-app/static/js/2.99d95e9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24fa545d.js",
     "static/js/2.99d95e9e.chunk.js",
-    "static/css/main.fad76d05.chunk.css",
-    "static/js/main.08080ab1.chunk.js"
+    "static/css/main.eac55fcc.chunk.css",
+    "static/js/main.60c43acb.chunk.js"
   ]
 }
